@@ -15,7 +15,7 @@ To begin, if you do not already have a sample Cosmos DB NoSQL API account, pleas
 
 1. Go to the Azure portal and create a Cosmos DB NoSQL account.
 2. Then navigate to the Data Explorer to query the resource.
-3. Select "Launch Quickstarts" to insert a new database, container, and sample data.
+3. Select "Launch quick start" to insert a new database, container, and sample data.
 <img width="1190" alt="image" src="https://github.com/user-attachments/assets/342a8b91-6a4e-49e7-abe0-6fe430b9d74e">
 
 ## How to install the extension
