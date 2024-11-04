@@ -87,7 +87,7 @@ SELECT * FROM c
 
 ### Scenario 3: Upload sample query
 
-- Upload and run the following sample query.
+- Upload and run the following [sample query.](https://github.com/StefArroyo/vscode-nosql-bug-bash-instructions/blob/main/SELECT%20%20FROM%20c%20OFFSET%200%20LIMIT%2010.sql )
 
 
 ### Scenario 4: View query perfomance
