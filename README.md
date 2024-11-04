@@ -22,17 +22,17 @@ To begin, if you do not already have a sample Cosmos DB NoSQL API account, pleas
 
 To manually install the Visual Studio Code (VS Code) extension from a VSIX file, you can do the following:
 Download the latest VS Code Extension Release: vscode-cosmosdb-0.23.1-alpha-PrPr-25.10.2024 
-1. Click the Extensions icon at the bottom of the Activity Bar
-2. Click the More button in the top right corner of the Extensions view
-3. Select Install from VSIX
+1. Click the Extensions icon at the bottom of the Activity Bar.
+2. Click the More button in the top right corner of the Extensions view.
+3. Select Install from VSIX.
 4. Select the VSIX file in the file browser or in your downloads folder.
-5. Click Install
-6. Click Reload to activate the extension
+5. Click Install.
+6. Click Reload to activate the extension.
 
 *Note*: Auto-updates for extensions installed via VSIX should be disabled by default.
 
 ## Authenticating via Entra ID
-We recommend you use Microsoft Entra ID when accessing your Azure Cosmos DB resources (instead of account keys) for the most secure authentication method. Once you're signed into Azure, In the Azure tree view, drill down to the collection you'd like to access and right-click on the resource to open the Query editor experience.
+We recommend you use Microsoft Entra ID when accessing your Azure Cosmos DB resources (instead of account keys) for the most secure authentication method. Once you're signed into Azure, in the Azure tree view, drill down to the collection you'd like to access and right-click on the resource to open the query editor experience.
 
 ![image](https://github.com/user-attachments/assets/d4d02dc3-8db3-4317-8574-5825af3e8442)
 
@@ -106,11 +106,11 @@ SELECT * FROM c
 ### Scenario 7: Edit data
 
 - In table view, edit one of your documents and save the changes.
-- Verify the changes propgated to your container by querying for the change made.
+- Verify the changes propagated to your container by querying for the change made.
 
 ### Scenario 8: Delete Document
 - In tableview, delete any selected document.
-- Verify the changes propgated to your container by querying for the document.
+- Verify the changes propagated to your container by querying for the document.
 - Zero results should be returned.
 
 
