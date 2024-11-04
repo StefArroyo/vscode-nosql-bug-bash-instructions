@@ -21,7 +21,7 @@ To begin, if you do not already have a sample Cosmos DB NoSQL API account, pleas
 ## How to install the extension
 
 To manually install the Visual Studio Code (VS Code) extension from a VSIX file, you can do the following:
-Download the latest VS Code Extension Release: vscode-cosmosdb-0.23.1-alpha-PrPr-25.10.2024 
+Download the latest VS Code Extension Release: [vscode-cosmosdb-0.23.1-alpha_2024_Nov_4.vsix](https://microsofteur-my.sharepoint.com/personal/sevoku_microsoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsevoku%5Fmicrosoft%5Fcom%2FDocuments%2Fvscode%2Dcosmosdb%2D0%2E23%2E1%2Dalpha%5F2024%5FNov%5F4%2Evsix&parent=%2Fpersonal%2Fsevoku%5Fmicrosoft%5Fcom%2FDocuments&ct=1730740858008&or=Teams%2DHL&ga=1&LOF=1)
 1. Click the Extensions icon at the bottom of the Activity Bar.
 2. Click the More button in the top right corner of the Extensions view.
 3. Select Install from VSIX.
